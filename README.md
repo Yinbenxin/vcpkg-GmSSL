@@ -1,1 +1,1 @@
-# vcpkg-GmSSL
+# gmssl

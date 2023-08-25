@@ -1,0 +1,4 @@
+The package gmssl is compatible with built-in CMake targets:
+
+    find_package(GmSSL REQUIRED)
+    target_link_libraries(main PRIVATE GmSSL::SSL GmSSL::Crypto)
